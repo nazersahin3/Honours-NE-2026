@@ -36,13 +36,7 @@ Radiation therapy dose data are extracted from DICOM RTDOSE files and converted 
 Dose regions are generated in 5 Gy intervals:
 
 $$
-<5 Gy
-5–10 Gy
-10–15 Gy
-15–20 Gy
-20–25 Gy
-25–30 Gy
-≥30 Gy
+<5 Gy, 5–10 Gy, 10–15 Gy, 15–20 Gy, 20–25 Gy, 25–30 Gy, ≥30 Gy
 $$
 
 Two forms of dose segmentation are generated:
