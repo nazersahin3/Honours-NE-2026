@@ -57,16 +57,18 @@ The spatial distribution of SPECT counts is used to determine the fraction of wh
 
 For a given ROI:
 
-$\frac{\text{ROI sum counts}}
+$$
+\frac{\text{ROI sum counts}}
 {\text{whole-liver sum counts}}
-]
+$$
 
 and regional liver function is calculated as:
 
-$\text{ROI fraction of liver counts}
+$$
+\text{ROI fraction of liver counts}
 \times
 \text{patient TLF}.
-]
+$$
 
 ### Segment Statistics and Evaluation
 
